@@ -44,12 +44,10 @@ This is a Java-based desktop application designed for managing operations in a r
 
 ## 📂 Project Structure
 ~~~
-├── controller/
-├── model/
-├── view/
-├── database/
-├── utils/
-└── Main.java
+├── bus/
+├── dao/
+├── entity/
+├── ui/
 ~~~
 ---
 
