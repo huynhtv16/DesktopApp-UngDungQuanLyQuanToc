@@ -39,18 +39,18 @@ This is a Java-based desktop application designed for managing operations in a r
 
 ## 📸 Screenshots
 
-_Add some screenshots here if available to showcase UI and features._
 
 ---
 
 ## 📂 Project Structure
+~~~
 ├── controller/
 ├── model/
 ├── view/
 ├── database/
 ├── utils/
 └── Main.java
-
+~~~
 ---
 
 ## 🧪 How to Run
