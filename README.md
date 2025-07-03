@@ -40,7 +40,8 @@ This is a Java-based desktop application designed for managing operations in a r
 
 ![image](https://github.com/user-attachments/assets/1518f328-8cd1-4f4d-bbcb-03569eb26603) ![image](https://github.com/user-attachments/assets/aa1982a4-34b1-4dc2-8930-bbf879d136cf)
 
-![image](https://github.com/user-attachments/assets/87473aec-5fd4-427d-89c7-e9f9f973e0cd)
+![image](https://github.com/user-attachments/assets/87473aec-5fd4-427d-89c7-e9f9f973e0cd) ![image](https://github.com/user-attachments/assets/a6803532-aa7f-4501-a6f7-f68794394296)
+
 
 
 
