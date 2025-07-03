@@ -2,8 +2,6 @@
 
 This is a Java-based desktop application designed for managing operations in a real-world hair salon. The project follows the **MVC (Model-View-Controller)** architecture and connects to an **Oracle** database for storing and retrieving data. Developed using **Eclipse IDE**, this application has been deployed and used successfully in a functioning salon.
 
-🔗 **GitHub Repository**: [bit.ly/3G73aAi](https://bit.ly/3G73aAi)
-
 ---
 
 ## 🛠️ Technologies Used
@@ -38,6 +36,12 @@ This is a Java-based desktop application designed for managing operations in a r
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/563102fa-6096-4424-b62d-e0d9d03a4563)
+![image](https://github.com/user-attachments/assets/c85c1b52-5822-4e78-a2cd-e08ed510ac9e)
+![image](https://github.com/user-attachments/assets/1518f328-8cd1-4f4d-bbcb-03569eb26603)
+![image](https://github.com/user-attachments/assets/aa1982a4-34b1-4dc2-8930-bbf879d136cf)
+![image](https://github.com/user-attachments/assets/87473aec-5fd4-427d-89c7-e9f9f973e0cd)
+
 
 
 ---
