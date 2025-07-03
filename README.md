@@ -36,7 +36,8 @@ This is a Java-based desktop application designed for managing operations in a r
 ---
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/563102fa-6096-4424-b62d-e0d9d03a4563) ![image](https://github.com/user-attachments/assets/c85c1b52-5822-4e78-a2cd-e08ed510ac9e)
+![image](https://github.com/user-attachments/assets/563102fa-6096-4424-b62d-e0d9d03a4563) ![image](https://github.com/user-attachments/assets/bf99283e-02c5-4fa7-b66e-8909c1f0892a)
+
 
 ![image](https://github.com/user-attachments/assets/1518f328-8cd1-4f4d-bbcb-03569eb26603) ![image](https://github.com/user-attachments/assets/aa1982a4-34b1-4dc2-8930-bbf879d136cf)
 
