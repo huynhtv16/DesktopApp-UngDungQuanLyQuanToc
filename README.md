@@ -56,7 +56,7 @@ This is a Java-based desktop application designed for managing operations in a r
 1. Clone the repository  
 2. Open the project using **Eclipse**  
 3. Make sure Oracle DB is running and connection parameters are configured  
-4. Run `Main.java`
+4. Run `DangNhap.java`
 
 ---
 
