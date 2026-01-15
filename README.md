@@ -46,7 +46,6 @@
 
 
 
-
 ---
 
 ## 📂 Project Structure
@@ -56,22 +55,6 @@
 ├── entity/
 ├── ui/
 ~~~
----
-
-## 🧪 How to Run
-
-1. Clone the repository  
-2. Open the project using **Eclipse**  
-3. Make sure Oracle DB is running and connection parameters are configured  
-4. Run `DangNhap.java`
-
----
-
-## 📌 Notes
-
-- This project was used and tested in a real hair salon environment.
-- You can extend this project by adding features like online booking, inventory alerts, etc.
-
 ---
 
 ## 📧 Contact
