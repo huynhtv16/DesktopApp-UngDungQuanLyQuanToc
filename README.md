@@ -1,37 +1,38 @@
 # 💇‍♂️ Hair Salon Management System
 
-This is a Java-based desktop application designed for managing operations in a real-world hair salon. The project follows the **MVC (Model-View-Controller)** architecture and connects to an **Oracle** database for storing and retrieving data. Developed using **Eclipse IDE**, this application has been deployed and used successfully in a functioning salon.
+Đây là một **ứng dụng desktop viết bằng Java** dùng để quản lý hoạt động của một **salon tóc thực tế**. Dự án được xây dựng theo mô hình **MVC (Model – View – Controller)** và kết nối với **cơ sở dữ liệu Oracle** để lưu trữ và truy xuất dữ liệu.  
+Ứng dụng được phát triển bằng **Eclipse IDE** và đã **triển khai, sử dụng thành công tại một salon đang hoạt động**.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Công nghệ sử dụng
 
-- **Programming Language:** Java  
-- **Architecture:** MVC  
-- **Database:** Oracle  
-- **IDE/Tool:** Eclipse  
+- **Ngôn ngữ lập trình:** Java  
+- **Kiến trúc:** MVC (Model – View – Controller)  
+- **Cơ sở dữ liệu:** Oracle  
+- **Công cụ phát triển:** Eclipse  
 
 ---
 
-## 🚀 Key Features
+## 🚀 Chức năng chính
 
-- ✅ **QR Code Scanning**  
-  - Scan QR codes on services and products to quickly create orders.
+- ✅ **Quét mã QR**  
+  - Quét mã QR của dịch vụ và sản phẩm để tạo hóa đơn nhanh chóng.
 
-- ✅ **Invoice Printing**  
-  - Print invoices directly using a connected plug-in device.
+- ✅ **In hóa đơn**  
+  - In hóa đơn trực tiếp thông qua thiết bị in hóa đơn cắm ngoài.
 
-- ✅ **Employee Management**  
-  - Manage employee details, roles, and delegation of tasks.
+- ✅ **Quản lý nhân viên**  
+  - Quản lý thông tin nhân viên, phân quyền và phân công công việc.
 
-- ✅ **Add Products via QR**  
-  - Add new products to the inventory using QR code scanning.
+- ✅ **Thêm sản phẩm bằng mã QR**  
+  - Thêm sản phẩm mới vào kho thông qua quét mã QR.
 
-- ✅ **Customer Service History**  
-  - View detailed statistics for specific customers, including which services they've used.
+- ✅ **Lịch sử sử dụng dịch vụ của khách hàng**  
+  - Xem thống kê chi tiết cho từng khách hàng, bao gồm các dịch vụ đã sử dụng.
 
-- ✅ **Sales Statistics**  
-  - Track best-selling products and services with time-based filters.
+- ✅ **Thống kê doanh thu & bán chạy**  
+  - Thống kê các sản phẩm và dịch vụ bán chạy theo mốc thời gian.
 
 ---
 
