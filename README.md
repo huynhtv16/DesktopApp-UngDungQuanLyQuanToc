@@ -1,8 +1,6 @@
 # 💇‍♂️ Hair Salon Management System
 
-Đây là một **ứng dụng desktop viết bằng Java** dùng để quản lý hoạt động của một **salon tóc thực tế**. Dự án được xây dựng theo mô hình **MVC (Model – View – Controller)** và kết nối với **cơ sở dữ liệu Oracle** để lưu trữ và truy xuất dữ liệu.  
-Ứng dụng được phát triển bằng **Eclipse IDE** và đã **triển khai, sử dụng thành công tại một salon đang hoạt động**.
-
+Đây là một **ứng dụng desktop viết bằng Java** dùng để quản lý hoạt động của một **salon tóc thực tế**. 
 ---
 
 ## 🛠️ Công nghệ sử dụng
